@@ -12,7 +12,7 @@ I focus on delivering direct business value through pragmatic and sustainable so
 - ⚡ Certified in Scrum and Agile methodologies
 - 💼 Currently working at [Factech](https://www.factech.tech/) as a Senior Specialist using Microsoft ERP Technologies and Azure services
 
-<h3 align="left">Other Technologies and Tools:</h3>
+<h3 align="left">Technologies and Tools:</h3>
 <p align="left">
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white" />
