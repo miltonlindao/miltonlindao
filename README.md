@@ -18,7 +18,7 @@ I'm passionate about contributing to projects with strong technical execution, c
 <p align="left">
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-4285f4?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-323330?style=flat-square&logo=Javascript&logoColor=000" />
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-323330?style=flat-square&logo=Javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=white" />
