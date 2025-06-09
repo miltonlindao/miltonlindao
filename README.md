@@ -1,7 +1,7 @@
 <h1 align="center">Greetings👋, I'm Milton Lindao</h1>
 <h3 align="center">Dynamics 365 F&O Tech Consultant | Azure LCS | Microsoft Dynamics 365 Finance & Operations</h3>
 <P>
-I'm an IT professional specialized in Microsoft Dynamics 365 F&O, AX, and NAV solutions, with over 10 years of experience leading high-volume implementations, migrations, and integrations for companies across LATAM and Europe.
+I'm an IT professional specialized in Microsoft Dynamics 365 F&O (former Dynamics AX) and NAV solutions, with over 10 years of experience leading high-volume implementations, migrations, and integrations for companies across LATAM and Europe.
 
 I focus on delivering direct business value through pragmatic and sustainable solutions, even in complex or transitional environments. I leverage and extend the ERP's capabilities (finance, logistics, projects, manufacturing) and integrate it with the broader corporate application ecosystem. This includes developing mobile, web, and desktop solutions (.NET, SQL Server, Java, Oracle, Android) that interact via OData, APIs, Power Platform, and CI/CD automation for continuous deployment.
 
