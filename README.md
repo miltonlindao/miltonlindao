@@ -34,7 +34,7 @@ I'm passionate about contributing to projects with strong technical execution, c
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
   <img alt="Power BI" src="https://custom-icon-badges.demolab.com/badge/-Power%20BI-F1C912?style=flat-square&logo=Power%20BI&logoColor=white" />  
-  <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0066b8?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="vscode" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="vs" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" />  
   <img alt="digitalocean" src="https://img.shields.io/badge/-DigitalOcean-0167FF?style=flat-square&logo=DigitalOcean&logoColor=white" />
