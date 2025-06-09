@@ -5,13 +5,11 @@ I'm an IT professional specialized in Microsoft Dynamics 365 F&O, AX, and NAV so
 
 I focus on delivering direct business value through pragmatic and sustainable solutions, even in complex or transitional environments. I leverage and extend the ERP's capabilities (finance, logistics, projects, manufacturing) and integrate it with the broader corporate application ecosystem. This includes developing mobile, web, and desktop solutions (.NET, SQL Server, Java, Oracle, Android) that interact via OData, APIs, Power Platform, and CI/CD automation for continuous deployment.
 
-I'm also certified in Scrum and Agile methodologies, which enables me to lead and collaborate with multidisciplinary teams focused on quality and innovation.
-
-I'm passionate about contributing to projects with strong technical execution, clear communication, and professional autonomy—while actively pursuing formal certifications and fluency in English.
 </P>
 <h1></h1> 
 
 - 🚀 More than 10 years of experience creating innovative and user-friendly applications
+- ⚡ Certified in Scrum and Agile methodologies
 - 💼 Currently working at [Factech](https://www.factech.tech/) as a Senior Specialist using Microsoft ERP Technologies and Azure services
 
 <h3 align="left">Other Technologies and Tools:</h3>
@@ -56,18 +54,3 @@ I'm passionate about contributing to projects with strong technical execution, c
   <a href="https://www.linkedin.com/in/miltonlindao/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:melv077@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<!--
-**miltonlindao/miltonlindao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
